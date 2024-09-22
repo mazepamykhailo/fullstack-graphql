@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Fullstack GraphQL: Node + React + GraphQL",
   "repository": "https://github.com/aboglioli/fullstack-graphql",
-  "author": "Alan Boglioli <alan.boglioli@gmail.com>",
+  "author": "Mykhailo Mazepa <mazepamykhailo@gmail.com>",
   "license": "MIT",
   "scripts": {
     "backend:lint": "cd backend && yarn lint",

@@ -14,7 +14,7 @@ const Dashboard = ({ children }) => {
       sidebar={<Sidebar />}
       footer={
         <div style={{ textAlign: 'center', padding: '5px 0' }}>
-          Copyright © 2019 - Alan Boglioli
+          Copyright © 2019 - Mykhailo Mazepa
         </div>
       }
     >

@@ -4,7 +4,7 @@
   "description": "Sistema de turnos",
   "main": "src/index.js",
   "repository": "https://github.com/aboglioli/fullstack-graphql",
-  "author": "Alan Boglioli <alan.boglioli@gmail.com>",
+  "author": "Mykhailo Mazepa <mazepamykhailo@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
